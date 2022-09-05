@@ -1,4 +1,6 @@
-### Hi there 👋
+![info](https://github-readme-stats.vercel.app/api?username=rayrayraykk&show_icons=true&theme=radical&count_private=true)
+
+![WeiruiKuang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=rayrayraykk&show_icons=true&count_private=true&theme=gotham&layout=compact)
 
 <!--
 **rayrayraykk/rayrayraykk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
