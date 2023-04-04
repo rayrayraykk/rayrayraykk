@@ -1,6 +1,6 @@
-![info](https://github-readme-stats.vercel.app/api?username=rayrayraykk&show_icons=true&theme=radical&count_private=true)
+<!-- ![info](https://github-readme-stats.vercel.app/api?username=rayrayraykk&show_icons=true&theme=radical&count_private=true) -->
 
-![WeiruiKuang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=rayrayraykk&show_icons=true&count_private=true&theme=gotham&layout=compact)
+<!-- ![WeiruiKuang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=rayrayraykk&show_icons=true&count_private=true&theme=gotham&layout=compact) -->
 
 
 - 🔭 I’m currently working on @ALIBABA GROUP @DAMO ACADEMY
