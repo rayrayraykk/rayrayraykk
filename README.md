@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently working on @ALIBABA GROUP @DAMO ACADEMY
-- 🌱 I’m currently learning federated learning.
-- 👯 I’m looking to collaborate on federated learning.
-- 💬 Ask me about federated learning and graph learning.
+- 🌱 I’m currently learning LLM.
+- 👯 I’m looking to collaborate on federated learning & LLM & graph learning.
+- 💬 Ask me about anything you like.
 - 📫 How to reach me: weiruikuang@gmail.com
 - 🏠 Homepage: weiruikuang.com
 
