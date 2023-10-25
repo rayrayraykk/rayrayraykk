@@ -12,7 +12,7 @@
 
 
 
-Maintainer of Popular Open Source Repo [FederatedScope](https://github.com/alibaba/FederatedScope):
+Maintainer of Popular Open Source Federated Learning Platform [FederatedScope](https://github.com/alibaba/FederatedScope):
 [![Star History Chart](https://api.star-history.com/svg?repos=alibaba/FederatedScope&type=Date)](https://star-history.com/#alibaba/FederatedScope&Date)
 
 <a href="https://clustrmaps.com/site/1bssd"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=TgYH7HbJIh8eqVYwCmJAbmUgvlyAWvc2Py4baDM_6aw&cl=ffffff" /></a>
