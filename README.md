@@ -15,7 +15,7 @@
 Maintainer of Popular Open Source Federated Learning Platform [FederatedScope](https://github.com/alibaba/FederatedScope):
 [![Star History Chart](https://api.star-history.com/svg?repos=alibaba/FederatedScope&type=Date)](https://star-history.com/#alibaba/FederatedScope&Date)
 
-Maintainer of Popular Open Source Multi-Agent Platform [AgentScope]([https://github.com/alibaba/FederatedScope](https://github.com/modelscope/agentscope)):
+Maintainer of Popular Open Source Multi-Agent Platform [AgentScope](https://github.com/modelscope/agentscope):
 [![Star History Chart](https://api.star-history.com/svg?repos=modelscope/agentscope&type=Date)](https://star-history.com/#modelscope/agentscope&Date)
 
 <a href="https://clustrmaps.com/site/1bssd"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=TgYH7HbJIh8eqVYwCmJAbmUgvlyAWvc2Py4baDM_6aw&cl=ffffff" /></a>
