@@ -17,7 +17,7 @@
 - 👯 I'm looking to collaborate on LLM Applications & federated learning & graph learning.
 - 💬 Open to discussions on any topic; feel free to reach out!
 - 📫 Reach me at: weiruikuang@gmail.com
-- 🏠 Visit my homepage: weiruikuang.com
+- 🏠 Visit my homepage: www.weiruikuang.com
 
 ---
 
